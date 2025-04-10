@@ -165,6 +165,234 @@
                         </div>
                     </div>
                 </section>
+                
+                <!-- Features Section -->
+                <section class="py-20 px-6 md:px-10 lg:px-16 relative">
+                    <div class="max-w-7xl mx-auto">
+                        <div class="text-center mb-16">
+                            <h2 class="text-3xl md:text-4xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-4">
+                                How Lead Pixel Works
+                            </h2>
+                            <p class="text-lg text-gray-600 max-w-3xl mx-auto">
+                                Turn anonymous website visitors into qualified B2B leads with our powerful tracking and identification platform.
+                            </p>
+                        </div>
+                        
+                        <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
+                            <!-- Feature 1: Visitor Tracking -->
+                            <div class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
+                                <div class="w-14 h-14 bg-gradient-to-br from-indigo-100 to-purple-100 rounded-2xl flex items-center justify-center mb-6">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-indigo-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
+                                    </svg>
+                                </div>
+                                <h3 class="text-xl font-bold text-gray-900 mb-3">Visitor Tracking</h3>
+                                <p class="text-gray-600 mb-4">
+                                    Install a simple tracking pixel on your website to identify companies visiting your site in real-time, without collecting personal data.
+                                </p>
+                                <ul class="space-y-2">
+                                    <li class="flex items-start">
+                                        <svg class="h-5 w-5 text-green-500 mr-2 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                                        </svg>
+                                        <span class="text-gray-600">Real-time company identification</span>
+                                    </li>
+                                    <li class="flex items-start">
+                                        <svg class="h-5 w-5 text-green-500 mr-2 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                                        </svg>
+                                        <span class="text-gray-600">Easy installation</span>
+                                    </li>
+                                    <li class="flex items-start">
+                                        <svg class="h-5 w-5 text-green-500 mr-2 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                                        </svg>
+                                        <span class="text-gray-600">Privacy compliant</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            
+                            <!-- Feature 2: Lead Generation -->
+                            <div class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
+                                <div class="w-14 h-14 bg-gradient-to-br from-indigo-100 to-purple-100 rounded-2xl flex items-center justify-center mb-6">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-indigo-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+                                    </svg>
+                                </div>
+                                <h3 class="text-xl font-bold text-gray-900 mb-3">Lead Generation</h3>
+                                <p class="text-gray-600 mb-4">
+                                    Access company profiles and unlock decision-maker contact information to connect with qualified prospects.
+                                </p>
+                                <ul class="space-y-2">
+                                    <li class="flex items-start">
+                                        <svg class="h-5 w-5 text-green-500 mr-2 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                                        </svg>
+                                        <span class="text-gray-600">Decision-maker contact data</span>
+                                    </li>
+                                    <li class="flex items-start">
+                                        <svg class="h-5 w-5 text-green-500 mr-2 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                                        </svg>
+                                        <span class="text-gray-600">Company firmographics</span>
+                                    </li>
+                                    <li class="flex items-start">
+                                        <svg class="h-5 w-5 text-green-500 mr-2 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                                        </svg>
+                                        <span class="text-gray-600">Verified business emails</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            
+                            <!-- Feature 3: Integrations -->
+                            <div class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
+                                <div class="w-14 h-14 bg-gradient-to-br from-indigo-100 to-purple-100 rounded-2xl flex items-center justify-center mb-6">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-indigo-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                                    </svg>
+                                </div>
+                                <h3 class="text-xl font-bold text-gray-900 mb-3">Instant Notifications</h3>
+                                <p class="text-gray-600 mb-4">
+                                    Get real-time alerts when high-value prospects visit your website and take immediate action.
+                                </p>
+                                <ul class="space-y-2">
+                                    <li class="flex items-start">
+                                        <svg class="h-5 w-5 text-green-500 mr-2 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                                        </svg>
+                                        <span class="text-gray-600">Slack notifications</span>
+                                    </li>
+                                    <li class="flex items-start">
+                                        <svg class="h-5 w-5 text-green-500 mr-2 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                                        </svg>
+                                        <span class="text-gray-600">Customizable alerts</span>
+                                    </li>
+                                    <li class="flex items-start">
+                                        <svg class="h-5 w-5 text-green-500 mr-2 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                                        </svg>
+                                        <span class="text-gray-600">CSV exports</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                
+                <!-- How It Works Section -->
+                <section class="py-20 px-6 md:px-10 lg:px-16 bg-gradient-to-br from-indigo-50 to-purple-50">
+                    <div class="max-w-7xl mx-auto">
+                        <div class="text-center mb-16">
+                            <h2 class="text-3xl md:text-4xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-4">
+                                Simple Setup, Powerful Results
+                            </h2>
+                            <p class="text-lg text-gray-600 max-w-3xl mx-auto">
+                                Getting started with Lead Pixel takes just minutes. Here's how it works:
+                            </p>
+                        </div>
+                        
+                        <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+                            <div class="text-center">
+                                <div class="relative">
+                                    <div class="w-16 h-16 rounded-full bg-indigo-600 text-white text-xl font-bold flex items-center justify-center mx-auto mb-4">1</div>
+                                    <div class="hidden md:block absolute top-8 left-full w-full h-0.5 bg-indigo-200"></div>
+                                </div>
+                                <h3 class="text-lg font-bold text-gray-900 mb-2">Add the Pixel</h3>
+                                <p class="text-gray-600">Install our tracking code on your website with a simple copy and paste.</p>
+                            </div>
+                            
+                            <div class="text-center">
+                                <div class="relative">
+                                    <div class="w-16 h-16 rounded-full bg-indigo-600 text-white text-xl font-bold flex items-center justify-center mx-auto mb-4">2</div>
+                                    <div class="hidden md:block absolute top-8 left-full w-full h-0.5 bg-indigo-200"></div>
+                                </div>
+                                <h3 class="text-lg font-bold text-gray-900 mb-2">Identify Visitors</h3>
+                                <p class="text-gray-600">We automatically identify companies visiting your site in real-time.</p>
+                            </div>
+                            
+                            <div class="text-center">
+                                <div class="relative">
+                                    <div class="w-16 h-16 rounded-full bg-indigo-600 text-white text-xl font-bold flex items-center justify-center mx-auto mb-4">3</div>
+                                    <div class="hidden md:block absolute top-8 left-full w-full h-0.5 bg-indigo-200"></div>
+                                </div>
+                                <h3 class="text-lg font-bold text-gray-900 mb-2">Get Contact Info</h3>
+                                <p class="text-gray-600">Unlock decision-maker contact details at visiting companies.</p>
+                            </div>
+                            
+                            <div class="text-center">
+                                <div class="relative">
+                                    <div class="w-16 h-16 rounded-full bg-indigo-600 text-white text-xl font-bold flex items-center justify-center mx-auto mb-4">4</div>
+                                </div>
+                                <h3 class="text-lg font-bold text-gray-900 mb-2">Convert to Sales</h3>
+                                <p class="text-gray-600">Reach out while your company is top-of-mind for highest conversion rates.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="mt-16 text-center">
+                            @auth
+                                <a href="{{ url('/dashboard') }}" class="inline-flex items-center px-8 py-4 bg-gradient-to-r from-indigo-500 to-purple-500 text-white rounded-xl hover:shadow-lg hover:shadow-indigo-200 transition-all duration-300 text-lg font-medium group">
+                                    Go to Dashboard
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2 group-hover:translate-x-1 transition-transform" viewBox="0 0 20 20" fill="currentColor">
+                                        <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                                    </svg>
+                                </a>
+                            @else
+                                <a href="{{ route('register') }}" class="inline-flex items-center px-8 py-4 bg-gradient-to-r from-indigo-500 to-purple-500 text-white rounded-xl hover:shadow-lg hover:shadow-indigo-200 transition-all duration-300 text-lg font-medium group">
+                                    Start Free Trial
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2 group-hover:translate-x-1 transition-transform" viewBox="0 0 20 20" fill="currentColor">
+                                        <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                                    </svg>
+                                </a>
+                            @endauth
+                        </div>
+                    </div>
+                </section>
+
+                <section class="py-20 px-6 md:px-10 lg:px-16 text-center relative overflow-hidden">
+                    <!-- Background Elements -->
+                    <div class="absolute inset-0 overflow-hidden">
+                        <div class="absolute w-[500px] h-[500px] bg-indigo-100 rounded-full -top-48 -right-24 blur-3xl opacity-20"></div>
+                        <div class="absolute w-[400px] h-[400px] bg-purple-100 rounded-full -bottom-32 -left-24 blur-3xl opacity-20"></div>
+                    </div>
+
+                    <div class="max-w-7xl mx-auto relative">
+                        <div class="max-w-4xl mx-auto mb-16">
+                            <h2 class="text-3xl md:text-4xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-4">
+                                Ready to Convert Visitors into Leads?
+                            </h2>
+                            <p class="text-lg text-gray-600">
+                                Join thousands of B2B companies using Lead Pixel to identify and contact their website visitors.
+                            </p>
+                        </div>
+
+                        <div class="bg-white rounded-2xl shadow-xl p-8 md:p-12 max-w-3xl mx-auto relative">
+                            <div class="absolute -top-3 -right-3 bg-gradient-to-r from-green-400 to-green-500 text-white px-4 py-1 rounded-full text-sm font-medium">
+                                Limited Time Offer
+                            </div>
+                            
+                            <h3 class="text-2xl font-bold text-gray-900 mb-4">Get Started with 14 Days Free</h3>
+                            <p class="text-gray-600 mb-8">No credit card required. Cancel anytime.</p>
+                            
+                            @auth
+                                <a href="{{ url('/dashboard') }}" class="inline-flex items-center px-8 py-4 bg-gradient-to-r from-indigo-500 to-purple-500 text-white rounded-xl hover:shadow-lg hover:shadow-indigo-200 transition-all duration-300 text-lg font-medium group">
+                                    Go to Dashboard
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2 group-hover:translate-x-1 transition-transform" viewBox="0 0 20 20" fill="currentColor">
+                                        <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                                    </svg>
+                                </a>
+                            @else
+                                <a href="{{ route('register') }}" class="inline-flex items-center px-8 py-4 bg-gradient-to-r from-indigo-500 to-purple-500 text-white rounded-xl hover:shadow-lg hover:shadow-indigo-200 transition-all duration-300 text-lg font-medium group">
+                                    Start Free Trial
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2 group-hover:translate-x-1 transition-transform" viewBox="0 0 20 20" fill="currentColor">
+                                        <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                                    </svg>
+                                </a>
+                            @endauth
+                        </div>
+                    </div>
+                </section>
             </main>
 
             <style>
